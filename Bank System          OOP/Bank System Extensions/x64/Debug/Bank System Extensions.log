@@ -1,0 +1,190 @@
+﻿  Bank System Extensions.cpp
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\Bank System Extensions.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsUtill.h(67,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsUser.h(187,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+      E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsUser.h(24,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsBankClient.h(214,16): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+      E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsBankClient.h(24,16):
+      see declaration of 'clsBankClient::stTransferRegisterRecord'
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsBankClient.h(53,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsBankClient.h(452,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsBankClient.h(465,37): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\Bank System Extensions.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsInputValidate.h(146,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\Bank System Extensions.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsClientListScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsClientListScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsAddNewClient.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsAddNewClient.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsAddNewClient.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsAddNewClient.h(30,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsDeleteClietnScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsDeleteClietnScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsDeleteClietnScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsUpdateClientScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsUpdateClientScreen.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsUpdateClientScreen.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsUpdateClientScreen.h(33,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsFindClientScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsFindClientScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsFindClientScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsTransactionsScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsTransactionsScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsTransactionsScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsTransactionsScreen.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsTransactionsScreen.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsTotalBalance.h(53,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsTransferRegisterScreen.h(33,24): warning C4129: 'T': unrecognized character escape sequence
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsManageUser.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsManageUser.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsAddNewUserScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsManageUser.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsManageUser.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsManageUser.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsCurrencyExhangeScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsCurrencyExhangeScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsListCurrencyScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsFindCurrencyScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsFindCurrencyScreen.h(20,17): warning C4129: 'C': unrecognized character escape sequence
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsFindCurrencyScreen.h(21,17): warning C4129: 'R': unrecognized character escape sequence
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsUpdateCurencyScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsUpdateCurencyScreen.h(18,17): warning C4129: 'C': unrecognized character escape sequence
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsUpdateCurencyScreen.h(19,17): warning C4129: 'C': unrecognized character escape sequence
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsUpdateCurencyScreen.h(20,17): warning C4129: 'C': unrecognized character escape sequence
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsUpdateCurencyScreen.h(21,17): warning C4129: 'R': unrecognized character escape sequence
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsUpdateCurencyScreen.h(72,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsCurrencyCalculatorScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsCurrencyExhangeScreen.h(114,27): warning C4129: 'C': unrecognized character escape sequence
+  (compiling source file 'Bank%20System%20Extensions.cpp')
+  
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\Bank System Extensions.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsLoginScreen.h(53,1): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsBankClient.h(393,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\Bank System Extensions\clsUser.h(345,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank System Extensions.vcxproj -> E:\apps\c++\programing advice course\OOP as should course level 2\Bank System Extensions\x64\Debug\Bank System Extensions.exe
